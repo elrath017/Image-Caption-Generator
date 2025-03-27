@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+tensorflow
+numpy
+pillow
+pickle5
+openai
+pydantic
+requests
