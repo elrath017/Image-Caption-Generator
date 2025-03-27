@@ -5,7 +5,7 @@ An AI-powered tool that generates descriptive captions for images using deep lea
 ---
 
 ## 🛠️ Technologies Used  
-- **Python** (TensorFlow, Keras, OpenCV, NumPy, Pandas)  
+- **Python** (TensorFlow, Keras, NumPy)  
 - **Deep Learning** (VGG16 + LSTM)  
 - **Streamlit** (Web Interface)  
 - **Dataset**: Flickr8k  
