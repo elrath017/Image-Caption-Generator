@@ -32,9 +32,7 @@ An AI-powered tool that generates descriptive captions for images using deep lea
 **Input:** 🐶 *An image of a dog sitting on the grass*  
 
 **Generated Caption:**  
-> *"A dog sitting in the park looking happy."*  
-
-![Example Output](your-image-path.png)  
+> *"A dog sitting in the park looking happy."*   
 
 ---
 
